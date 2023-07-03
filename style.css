@@ -78,14 +78,19 @@ footer {
   .box {
     width: 100%;
     display: block;
-    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
   
-  .step-number {
-    width: 100%;
-    display: block;
-  }
   
+
+ main {
+   width: 90%;
+   display: block;
+ }
+
+ 
+ 
   
 
 }
